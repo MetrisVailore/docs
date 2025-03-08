@@ -1,8 +1,10 @@
 
 # Installation of Mining pool miningcore
 
-git clone https://github.com/oliverw/miningcore (git should be installedd btw)
+```bash
+git clone https://github.com/oliverw/miningcore (git should be installed btw)
 cd miningcore
+```
 
 ## Wsl or Linux
 
